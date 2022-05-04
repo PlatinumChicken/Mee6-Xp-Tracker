@@ -4,6 +4,7 @@
 
 - Bot that tracks mee6 xp gain for people in server
 - Limit of 100 people
+- Server leaderboard must be public
 
 ### Outputs:
 
