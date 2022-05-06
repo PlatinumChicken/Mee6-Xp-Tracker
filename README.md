@@ -1,4 +1,5 @@
-# Mee6-xp-tracker-thing
+# Mee6-xp-tracker
+# Full rewrite soon
 
 ## Description
 
