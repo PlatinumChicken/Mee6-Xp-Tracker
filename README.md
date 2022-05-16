@@ -1,5 +1,5 @@
 # Mee6-xp-tracker
-### Full rewrite soon
+### Outdated, use MEE6 Monitor instead 
 
 ## Description
 
