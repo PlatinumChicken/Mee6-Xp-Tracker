@@ -47,4 +47,4 @@
 - Make three secrets with **key**: **API**, **CHANNELID**, and **TOKEN**
 - Follow **IDE** steps to insert values
 
-Run script and shit
+Run script and stuff
